@@ -1,39 +1,42 @@
-# CS106.K21
-
-### Thành viên nhóm DTL:
-1. Trần Tuấn Vĩ
-2. Vũ Ngọc Tú
-3. Phạm Xuân Thiên
-4. Trịnh Quang Trường
-5. Tăng Năng Chung
-
-## Hướng dẫn cài đặt
-
-### Yêu cầu:
-Hệ điều hành Ubuntu 18.04 trở lên (Đã test trên 20.04) 
-Python phiên bản >= 3.6
-```
-sudo apt-get update
-sudo apt install python3
-python3 --version
-```
-Java phiên bản 1.8.0_242
-```
-sudo apt-get update
-sudo apt-get install openjdk-8-jdk
-java --version
-
-```
-
-Pip3 (Trình quản lí package của Python)
-```
-sudo apt install python3-pip
-```
-### Cài đặt các thư viện hỗ trợ
-
-Cài đặt các thư viện cần thiết:
-```
-cd your/path/
-pip3 install -r requirements.txt
-```
-### 
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "README.md",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyOgwD4V2EPqWAv5pkX7dpiW",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/tono000/CS106.K21/blob/master/README.md\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "hoZBU-Sti5mI",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "hello world"
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
